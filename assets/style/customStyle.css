@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'terminess';
   /*a name to be used later*/
-  src: url('./assets/fonts/TerminessNerdFontPropo-Regular.ttf');
+  src: url('../assets/fonts/TerminessNerdFontPropo-Regular.ttf');
   /*URL to font*/
 }
 
